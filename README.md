@@ -131,10 +131,3 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1911.02357.pdf)
 - Attention Guided Anomaly Detection and Localization in Images | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
 
-
-
-## Contact & Feedback
-If you have any suggenstions about papers, feel free to mail me :)
-- [e-mail](mailto:Hoseong.Lee@cognex.com)
-- [blog](https://hoya012.github.io/)
-- [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls)
